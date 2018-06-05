@@ -44,7 +44,6 @@
 #library(shiny)
 #library(dplyr)
 #library("leaflet")
-#library("ggplot2")
 #library(knitr)
 #library("wordcloud")
 #library("tm")
